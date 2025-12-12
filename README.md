@@ -1,4 +1,3 @@
-# PRODIGY_CS_03
 # Password Toolkit: Generator & Strength Checker
 
 This repository contains two simple yet powerful tools to help users generate and evaluate secure passwords. Built with Python and Tkinter, this project demonstrates both functionality and GUI design.
